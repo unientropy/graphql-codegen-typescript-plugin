@@ -1,0 +1,20 @@
+{
+  "name": "@unientropy/graphql-codegen-typescript-plugin",
+  "version": "1.0.9",
+  "description": "Unientropy codegen plugin for GraphQL Typescript",
+  "main": "index.js",
+  "source": "index.js",
+  "scripts": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unientropy/graphql-codegen-typescript-plugin.git"
+  },
+  "author": "UE <unientropy@gmail.com>",
+  "peerDependencies": {
+    "@graphql-codegen/typescript": ">= 2.4.1"
+  },
+  "devDependencies": {}
+}
